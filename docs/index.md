@@ -1,4 +1,4 @@
-## Pointers: Open Datasets for (Data Science) Education
+
 This repository hosts the home page and submission reviews for
 [Pointers, a Zenodo community collecting datasets that are intended for use in education][pointers-zenodo].
 
