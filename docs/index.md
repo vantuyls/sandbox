@@ -5,7 +5,7 @@ This repository hosts the home page and submission reviews for
 The project is a collaboration between [the Academic Data Science Alliance (ADSA)][adsa-home] and [The Carpentries][carpentries-home].
 
 
-## Why Does the Collection Exist?
+# Why Does the Collection Exist?
 Many repositories already exist for open data, and we do not intend to replace any of these.
 
 The purpose of this collection is specifically to collect datasets that are intended
@@ -39,7 +39,7 @@ This project was established to collect these datasets that have been specifical
 created or prepared for use in an education context.
 
 
-## Submission & Review Process
+# Submission & Review Process
 Datasets submitted to the Pointers community will be reviewed and accepted based on their:
 
 - organisation
@@ -189,7 +189,7 @@ software with the data.
 Any code included in the dataset record should be published with [the MIT license][mit].
 
 
-## Code of Conduct
+# Code of Conduct
 
 All members of the project and those submitting datasets are required to
 abide by [The Carpentries Code of Conduct][coc].
