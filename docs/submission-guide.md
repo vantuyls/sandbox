@@ -1,4 +1,4 @@
 
-# One Hash
+# Submission Guide
 ## Two Hash
 ### Three Hash
